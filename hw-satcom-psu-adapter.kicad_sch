@@ -1414,8 +1414,8 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3d21ad1e-adf2-4a6f-b9bb-fd727992bece)
     (property "Reference" "F1" (id 0) (at 92.71 96.52 0))
-    (property "Value" "10A" (id 1) (at 92.71 99.06 0))
-    (property "Footprint" "Fuse:Fuse_1206_3216Metric" (id 2) (at 92.71 102.235 0)
+    (property "Value" "" (id 1) (at 92.71 99.06 0))
+    (property "Footprint" "" (id 2) (at 92.71 102.235 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 92.71 102.235 0)
@@ -2201,7 +2201,7 @@
       (reference "D3") (unit 1) (value "Yellow") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/3d21ad1e-adf2-4a6f-b9bb-fd727992bece"
-      (reference "F1") (unit 1) (value "10A") (footprint "Fuse:Fuse_1206_3216Metric")
+      (reference "F1") (unit 1) (value "10A") (footprint "Fuse:Fuse_2512_6332Metric")
     )
     (path "/d06f684c-b86b-49a5-ad3a-2b8c544739e6"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
