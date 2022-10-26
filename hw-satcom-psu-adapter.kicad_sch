@@ -3683,7 +3683,7 @@
     (property "Reference" "R14" (id 0) (at 114.3 59.6899 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "56k" (id 1) (at 114.3 62.2299 0)
+    (property "Value" "68k" (id 1) (at 114.3 62.2299 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "lc:0603_R" (id 2) (at 116.84 60.96 0)
@@ -3770,7 +3770,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 515f6649-bcc4-4cbc-91cc-3d502d2b01ee)
     (property "Reference" "R22" (id 0) (at 246.38 34.29 90))
-    (property "Value" "8.2k" (id 1) (at 246.38 36.83 90))
+    (property "Value" "10k" (id 1) (at 246.38 36.83 90))
     (property "Footprint" "lc:0402_R" (id 2) (at 246.38 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4622,7 +4622,7 @@
     (property "Reference" "R7" (id 0) (at 327.66 125.7299 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "5.1k" (id 1) (at 327.66 128.2699 0)
+    (property "Value" "6.8k" (id 1) (at 327.66 128.2699 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "lc:0402_R" (id 2) (at 330.2 127 0)
@@ -5067,7 +5067,7 @@
     (property "Reference" "R8" (id 0) (at 342.9 125.7299 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "5.1k" (id 1) (at 342.9 128.2699 0)
+    (property "Value" "6.8k" (id 1) (at 342.9 128.2699 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "lc:0402_R" (id 2) (at 345.44 127 0)
@@ -5362,7 +5362,7 @@
     (property "Reference" "R9" (id 0) (at 114.3 72.3899 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "56k" (id 1) (at 114.3 74.9299 0)
+    (property "Value" "68k" (id 1) (at 114.3 74.9299 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "lc:0603_R" (id 2) (at 116.84 73.66 0)
@@ -6195,13 +6195,13 @@
       (reference "R6") (unit 1) (value "4.7k") (footprint "lc:0402_R")
     )
     (path "/a1c4c3c4-06ef-4ede-b7de-cc6300e826d6"
-      (reference "R7") (unit 1) (value "5.1k") (footprint "lc:0402_R")
+      (reference "R7") (unit 1) (value "6.8k") (footprint "lc:0402_R")
     )
     (path "/c2dd7cc6-218f-4b5d-b15a-07d7240e6f7d"
-      (reference "R8") (unit 1) (value "5.1k") (footprint "lc:0402_R")
+      (reference "R8") (unit 1) (value "6.8k") (footprint "lc:0402_R")
     )
     (path "/d8137245-8784-44f2-b28b-e400ba76b910"
-      (reference "R9") (unit 1) (value "56k") (footprint "lc:0603_R")
+      (reference "R9") (unit 1) (value "68k") (footprint "lc:0603_R")
     )
     (path "/ccfd5d01-b1a4-4222-8bde-9f7c4ecc3217"
       (reference "R10") (unit 1) (value "56k") (footprint "lc:0402_R")
@@ -6216,7 +6216,7 @@
       (reference "R13") (unit 1) (value "27k") (footprint "lc:0805_R")
     )
     (path "/47f077bb-6199-49e4-b239-9640b6a93500"
-      (reference "R14") (unit 1) (value "56k") (footprint "lc:0603_R")
+      (reference "R14") (unit 1) (value "68k") (footprint "lc:0603_R")
     )
     (path "/4b62317b-efa3-4e5f-b4f1-a8333e206ac1"
       (reference "R15") (unit 1) (value "4m") (footprint "lc:2512_R")
@@ -6240,7 +6240,7 @@
       (reference "R21") (unit 1) (value "10k") (footprint "lc:0402_R")
     )
     (path "/515f6649-bcc4-4cbc-91cc-3d502d2b01ee"
-      (reference "R22") (unit 1) (value "8.2k") (footprint "lc:0402_R")
+      (reference "R22") (unit 1) (value "10k") (footprint "lc:0402_R")
     )
     (path "/3c1cab6f-da6a-4fe3-aa97-ceada2e38d2b"
       (reference "R23") (unit 1) (value "22k") (footprint "lc:0402_R")
